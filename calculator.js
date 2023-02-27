@@ -4,7 +4,7 @@ function summ(a, b) {
 function minus(a, b) {
     return BigInt(a) - BigInt(b)
 }
-function multiple(a, b) {
+function multiple(a, b) { // тут умножение
     return BigInt(a) * BigInt(b)
 }
 function devide(a, b) {
